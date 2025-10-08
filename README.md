@@ -1,6 +1,9 @@
 ## Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leedontbeshy)](https://github.com/leedontbeshy/github-readme-stats)
+
+![leedontbeshy's Stats](https://github-readme-stats.vercel.app/api?username=leedontbeshy&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![leedontbeshy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leedontbeshy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![leedontbeshy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=leedontbeshy&theme=vue-dark&hide_border=true)
 <!--
 **leedontbeshy/leedontbeshy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
